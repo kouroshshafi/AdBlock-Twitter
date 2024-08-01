@@ -6,4 +6,4 @@ This is a userscript to remove ads on twitter - tested for Userscripts (MacOS) S
 
 how to install userscripts: https://github.com/quoid/userscripts
 
-theoretically it should work on iOS (iPadOS) too.
+It also works on iOS (iPadOS) too. Just install the app userscripts on your device and add the js file listed here into the directory you set. Then give permission to Safari to alway use the file
